@@ -1,2 +1,0 @@
-# katoolin
-Tools kali linux
